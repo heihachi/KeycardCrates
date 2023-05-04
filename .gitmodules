@@ -1,0 +1,3 @@
+[submodule "Server"]
+	path = Server
+	url = git@github.com:heihachi/KeycardCratesServer.git
